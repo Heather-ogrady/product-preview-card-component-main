@@ -12,6 +12,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+## Overview
+
+A solution to the Product preview card component challenge on Frontend Mentor.
+
 ### The challenge
 
 Users should be able to:
