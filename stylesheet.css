@@ -60,6 +60,8 @@ body {
     font-size: 32px;
     line-height: 32px;
     color: var(--gunmetal);
+    margin-top: 20px;
+    margin-bottom: 24px;
 }
 
 .product-information p {
@@ -69,6 +71,8 @@ body {
     font-size: 14px;
     line-height: 23px;
     color: var(--aurometal-saurus);
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 
@@ -81,6 +85,8 @@ body {
     font-size: 32px;
     line-height: 32px;
     color: var(--deep-aquamarine);
+    margin-top: 29px;
+    margin-bottom: 30px;
 }
 
 .product-prices h3 {
